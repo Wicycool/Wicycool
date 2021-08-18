@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://wicy.cool/assets/images/full%20logo%20blue.png" alt="Wicycool Logo" width="300"/>
 
-<!--
-**Wicycool/Wicycool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+### 👋 Hey, I'm Wicycool! I make stuff sometimes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My pronouns are they/them and he/him and I live in the United States.
+
+I've made videos, live streams, branding, Scratch projects, and some other coding-based projects as well.
+
+------------
+
+### 🌐 Check out my website at [wicy.cool](https://wicy.cool "wicy.cool")!
+#### [Projects](https://wicy.cool/stuff/#projects "Projects") | [Social media](https://wicy.cool/stuff/#socialmedia "Social media") | [Blog](https://blog.wicy.cool/ "Blog")
+[and here's the source code for the website lol](https://github.com/Wicycool/wicycool.github.io "and here's the source code for the website lol")
