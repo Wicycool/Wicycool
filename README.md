@@ -11,5 +11,5 @@ I've made videos, live streams, branding, Scratch projects, and some other codin
 ------------
 
 ### 🌐 Check out my website at [wicy.cool](https://wicy.cool "wicy.cool")!
-#### [Projects](https://wicy.cool/stuff/#projects "Projects") | [Social media](https://wicy.cool/stuff/#socialmedia "Social media") | [Blog](https://blog.wicy.cool/ "Blog")
+#### [About](https://wicy.cool/stuff/#about "About") | [Projects](https://wicy.cool/stuff/#projects "Projects") | [Social media](https://wicy.cool/stuff/#socialmedia "Social media") | [Blog](https://blog.wicy.cool/ "Blog")
 [and here's the source code for the website lol](https://github.com/Wicycool/wicycool.github.io "and here's the source code for the website lol")
