@@ -4,7 +4,7 @@
 
 ### 👋 Hey, I'm Wicycool! I make stuff sometimes.
 
-My pronouns are they/them and he/him and I live in the United States.
+My pronouns are they/them and I live in the United States.
 
 I've made videos, live streams, branding, Scratch projects, and some other coding-based projects as well.
 
